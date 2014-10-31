@@ -1,6 +1,12 @@
-// SHA3.cpp : Defines the entry point for the console application.
-//
-#include "stdafx.h"
+#include<iostream>
+#include<map>
+#include<string>
+#include<vector>
+#include<cstdio>
+#include<cstring>
+#include<cassert>
+#include<algorithm>
+
 using namespace std;
 
 typedef unsigned long long ULL;
